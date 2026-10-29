@@ -14,8 +14,8 @@ Exploring and comparing Decision Tree and Naive Bayes algorithms for classificat
 ### 2. K-Means vs Artificial Neural Network (ANN)
 Exploring K-Means clustering and Artificial Neural Networks to understand their approaches and applications.
 
-### 3. Naive Bayes
-A project focused on applying the Naive Bayes algorithm to a machine learning problem.
+### 3. Artificial Neural Network (ANN)
+A project focused on applying the Artificial Neural Network algorithm to a machine learning problem.
 
 ### 4. Support Vector Machine (SVM)
 A project exploring the Support Vector Machine algorithm for machine learning tasks.
